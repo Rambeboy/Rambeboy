@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo -e "\e[33m
 ▒▒▄▀▀▀▀▀▄▒▒▒▒▒▄▄▄▄▄▒▒▒
 ▒▐░▄░░░▄░▌▒▒▄█▄█▄█▄█▄▒
@@ -7,3 +8,7 @@ echo -e "\e[33m
 ▒▒▐░▀▄▀░▌▒▒▒▒▒▒░░░▒▒▒▒
    𝙰𝚄𝚃𝙷𝙾𝚁 : 𝙽𝙾𝙵𝙰𝙽 𝚁𝙰𝙼𝙱𝙴
    𝚆𝙴𝙻𝙲𝙾𝙼𝙴 & 𝙴𝙽𝙹𝙾𝚈 𝚂𝙸𝚁!
+\e[0m"
+echo -e "\e[1mAUTHOR : NOFAN RAMBE\e[0m";
+echo -e "\e[1mWELCOME & ENJOY SIR!\e[0m";
+echo -e ""
